@@ -66,6 +66,16 @@ p{
     background-color: white;
     height: 500px;
 }
-.cont{
-    background-color:red;
+.contact{
+    background-color:pink;
+    float: right;
+    height: 150px;
+    width: 100%;
+    font-size: 20px;
+    font-weight:700;
+    padding: 10px;
+}
+h4{
+    margin-left: 30px;
+    text-align: left;
 }
